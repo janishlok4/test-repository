@@ -4,6 +4,8 @@ Stable tag: 1.7.3
 Tested up to: 6.4
 Requires at least: 4.6
 
+A change to the readme. 
+
 This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.
 
 == Description ==
